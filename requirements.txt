@@ -1,0 +1,14 @@
+# IPv4 Fragmentation Visualizer - Dependencies
+
+# GUI Framework
+customtkinter>=5.2.0
+
+# Standard library modules (no installation needed)
+# - tkinter (comes with Python)
+# - csv
+# - json
+# - logging
+# - datetime
+# - pathlib
+# - typing
+# - dataclasses

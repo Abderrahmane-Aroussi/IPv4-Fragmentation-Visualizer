@@ -1,0 +1,20 @@
+{
+  "appearance_mode": "light",
+  "color_theme": "blue",
+  "window_width": 1400,
+  "window_height": 900,
+  "min_width": 1200,
+  "min_height": 700,
+  "default_packet_size": 1500,
+  "default_header_size": 20,
+  "default_mtu_path": "1500, 576, 1500",
+  "min_packet_size": 20,
+  "max_packet_size": 65535,
+  "min_header_size": 20,
+  "max_header_size": 60,
+  "min_mtu": 68,
+  "max_mtu": 65535,
+  "max_fragment_offset": 8191,
+  "export_directory": "exports",
+  "auto_timestamp": true
+}
