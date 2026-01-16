@@ -5,6 +5,11 @@ A comprehensive desktop application for visualizing and understanding IPv4 packe
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 
+## 🖼️ Screenshots
+
+![Main Interface](screenshots/main.png)
+
+
 ## 🌟 Features
 
 ### Core Functionality
